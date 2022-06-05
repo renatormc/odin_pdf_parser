@@ -5,6 +5,9 @@ class OdinParserDataPericia:
         self.rg: int = 0
         self.ano: int = 0
 
+    def __repr__(self) -> str:
+        return f"{self.seq}/{self.rg}/{self.ano}"
+
 class OdinParserDataQusito:
     def __init__(self) -> None:
         self.numero: str = ""
