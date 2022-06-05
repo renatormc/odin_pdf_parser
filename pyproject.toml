@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "odin_pdf_parser"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["renatormc <renatomartinsrmc@gmail.com>"]
 
